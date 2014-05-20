@@ -1,5 +1,3 @@
-.. image:: https://travis-ci.org/ploneintranet/ploneintranet.invitations.svg?branch=master :target:  https://travis-ci.org/ploneintranet/ploneintranet.invitations
-.. image:: https://coveralls.io/repos/ploneintranet/ploneintranet.invitations/badge.png :target: https://coveralls.io/r/ploneintranet/ploneintranet.invitations
 Introduction
 ============
 

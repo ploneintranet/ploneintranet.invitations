@@ -1,3 +1,4 @@
+
 from setuptools import setup, find_packages
 
 version = '0.1'
@@ -38,8 +39,8 @@ setup(name='ploneintranet.invitations',
       include_package_data=True,
       zip_safe=False,
       install_requires=[
-          'setuptools',
-          # -*- Extra requirements: -*-
+          'setuptools', 
+          'persistent',
       ],
       extras_require={
           'test': ['plone.app.testing'],

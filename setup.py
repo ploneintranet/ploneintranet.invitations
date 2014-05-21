@@ -40,6 +40,7 @@ setup(name='ploneintranet.invitations',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'plone.api',
       ],
       extras_require={
           'test': ['plone.app.testing'],

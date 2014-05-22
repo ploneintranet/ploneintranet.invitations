@@ -45,7 +45,6 @@ setup(name='ploneintranet.invitations',
       extras_require={
           'test': [
               'plone.app.testing',
-              'collective.MockMailHost'
           ],
           'develop': [
               'Sphinx',

@@ -36,7 +36,7 @@ Invitation Usage
 Using the token framework
 -------------------------
 
-To use the provided invitation view::
+To use the provided invitation view:
 
 .. code:: python
 
@@ -47,7 +47,7 @@ To use the provided invitation view::
     token_id, token_url = token_util.generate_new_token()
 
 You can then register an event subscriber that will be trigged when the 
-token url is visited::
+token url is visited:
 
 .. code:: xml
 

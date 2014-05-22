@@ -36,7 +36,7 @@ Invitation Usage
 Using the token framework
 -------------------------
 
-To use the provided invitation view:
+To use the provided invitation view::
 
     from zope.component import getUtility
     from ploneintranet.invitations.interfaces import ITokenUtility
@@ -45,7 +45,7 @@ To use the provided invitation view:
     token_id, token_url = token_util.generate_new_token()
 
 You can then register an event subscriber that will be trigged when the 
-token url is visited:
+token url is visited::
 
     <subscriber
         for="ploneintranet.invitations.events.ITokenAccepted"

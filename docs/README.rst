@@ -36,7 +36,7 @@ Invitation Usage
 Using the token framework
 -------------------------
 
-To use the provided invitation view:
+To create a new token:
 
 .. code:: python
 

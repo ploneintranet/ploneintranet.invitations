@@ -1,11 +1,18 @@
 ploneintranet Package
 =====================
 
-:mod:`ploneintranet.invitations` Package
-----------------------------------------
+:mod:`ploneintranet` Package
+----------------------------
 
-.. automodule:: ploneintranet
+.. automodule:: ploneintranet.__init__
     :members:
     :undoc-members:
     :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    ploneintranet.invitations
 

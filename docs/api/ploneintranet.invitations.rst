@@ -9,18 +9,10 @@ ploneintranet.invitations Package
     :undoc-members:
     :show-inheritance:
 
-:mod:`interfaces` Module
-------------------------
+:mod:`token` Module
+-------------------
 
-.. automodule:: ploneintranet.invitations.interfaces
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-:mod:`testing` Module
----------------------
-
-.. automodule:: ploneintranet.invitations.testing
+.. automodule:: ploneintranet.invitations.token
     :members:
     :undoc-members:
     :show-inheritance:
@@ -40,4 +32,3 @@ ploneintranet.invitations Package
     :members:
     :undoc-members:
     :show-inheritance:
-

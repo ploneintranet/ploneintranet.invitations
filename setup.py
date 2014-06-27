@@ -48,6 +48,7 @@ setup(name='ploneintranet.invitations',
           ],
           'develop': [
               'Sphinx',
+              'zest.releaser',
           ]
       },
       entry_points="""

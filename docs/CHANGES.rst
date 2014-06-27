@@ -1,8 +1,8 @@
 Changelog
 =========
 
-0.1-dev (unreleased)
+0.1 (unreleased)
 --------------------
 
-- Package created using templer
-  []
+- Initial release
+  [mattss, wengole]

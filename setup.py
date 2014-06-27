@@ -57,5 +57,4 @@ setup(name='ploneintranet.invitations',
       target = plone
       """,
       setup_requires=[],
-      paster_plugins=[],
       )

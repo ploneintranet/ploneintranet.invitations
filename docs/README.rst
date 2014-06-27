@@ -8,20 +8,25 @@ Plone Intranet Invitations
 
 This package provides the following:
 
+Invite users via email
+----------------------
+
 Ability to invite users to a plone site using a unique URL, rather than a username and password
- - Invites are linked to an email address
- - Unique login URL is sent via email
- - Accessing unique login URL will create a user account and
-   authenticate them
- - Subsequent use of login URL will authenticate
+
+- Invites are linked to an email address
+- Unique login URL is sent via email
+- Accessing unique login URL will create a user account and authenticate them
+- Subsequent use of login URL will authenticate
 
 Generic token framework
- - Provides a unique url (used to accept the token)
- - Fires an event when a token is accepted
- - Optionally redirect to a custom path when token is accepted
- - Optionally provide limits to tokens
-    - Expiry time
-    - Number of uses
+-----------------------
+
+- Provides a unique url (used to accept the token)
+- Fires an event when a token is accepted
+- Optionally redirect to a custom path when token is accepted
+- Optionally provide limits to tokens
+  - Expiry time
+  - Number of uses
 
 Installation
 ------------
@@ -34,7 +39,6 @@ Invitation Usage
 
 - Control panel -> ploneintranet.invitations
  
-
 Using the token framework
 -------------------------
 

@@ -1,7 +1,7 @@
 
 from setuptools import setup, find_packages
 
-version = '0.1'
+version = '0.2.dev0'
 
 long_description = (
     open('README.rst').read()
@@ -29,9 +29,9 @@ setup(name='ploneintranet.invitations',
           "Topic :: Software Development :: Libraries :: Python Modules",
       ],
       keywords='',
-      author='',
+      author='Plone Intranet Consortium',
       author_email='',
-      url='http://svn.plone.org/svn/collective/',
+      url='https://github.com/ploneintranet/ploneintranet.invitations',
       license='gpl',
       packages=find_packages('src'),
       package_dir={'': 'src'},
@@ -48,6 +48,7 @@ setup(name='ploneintranet.invitations',
           ],
           'develop': [
               'Sphinx',
+              'zest.releaser',
           ]
       },
       entry_points="""
@@ -56,5 +57,4 @@ setup(name='ploneintranet.invitations',
       target = plone
       """,
       setup_requires=[],
-      paster_plugins=[],
       )

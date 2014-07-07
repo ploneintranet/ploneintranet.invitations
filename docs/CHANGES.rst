@@ -1,8 +1,14 @@
 Changelog
 =========
 
-0.1-dev (unreleased)
---------------------
+0.2 (unreleased)
+----------------
 
-- Package created using templer
-  []
+- Nothing changed yet.
+
+
+0.1 (2014-06-27)
+----------------
+
+- Initial release
+  [mattss, wengole]

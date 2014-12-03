@@ -6,10 +6,10 @@ install:
   - bin/buildout -c travis.cfg buildout:develop= install download install 
   - bin/buildout -N -t 3 -c travis.cfg
 script: 
-  - bin/test
+  - bin/test -s ploneintranet.invitations
   - bin/flake8 src/ploneintranet
 after_success:
-  - bin/createcoverage run bin/test
+  - bin/createcoverage run bin/test -s ploneintranet.invitations
   - pip install -q coveralls
   - coveralls
 notifications:

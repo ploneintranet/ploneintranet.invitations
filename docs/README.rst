@@ -2,9 +2,9 @@ Plone Intranet Invitations
 ==========================
 
 .. image:: https://travis-ci.org/ploneintranet/ploneintranet.invitations.svg?branch=master
-    :target: https://travis-ci.org/ploneintranet/ploneintranet.invitations
+   :target: https://travis-ci.org/ploneintranet/ploneintranet.invitations
 .. image:: https://coveralls.io/repos/ploneintranet/ploneintranet.invitations/badge.png?branch=master
-  :target: https://coveralls.io/r/ploneintranet/ploneintranet.invitations?branch=master
+   :target: https://coveralls.io/r/ploneintranet/ploneintranet.invitations?branch=master
 
 Build status
 ------------

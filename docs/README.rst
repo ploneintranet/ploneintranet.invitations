@@ -1,8 +1,6 @@
 Plone Intranet Invitations
 ==========================
 
-.. image:: https://coveralls.io/repos/ploneintranet/ploneintranet.invitations/badge.png?branch=master
-   :target: https://coveralls.io/r/ploneintranet/ploneintranet.invitations?branch=master
 
 Build status
 ------------
@@ -12,8 +10,8 @@ Unit tests
 
 .. image:: https://travis-ci.org/ploneintranet/ploneintranet.invitations.svg?branch=master
    :target: https://travis-ci.org/ploneintranet/ploneintranet.invitations
-.. image:: https://travis-ci.org/ploneintranet/ploneintranet.invitations.svg?branch=master
-   :target: https://travis-ci.org/ploneintranet/ploneintranet.invitations
+.. image:: https://coveralls.io/repos/ploneintranet/ploneintranet.invitations/badge.png?branch=master
+   :target: https://coveralls.io/r/ploneintranet/ploneintranet.invitations?branch=master
 .. image:: http://jenkins.ploneintranet.net/buildStatus/icon?job=Plone%20Intranet%20Notifications
     :target: http://jenkins.ploneintranet.net/job/Plone%20Intranet%20Notifications/
 

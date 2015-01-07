@@ -6,6 +6,24 @@ Plone Intranet Invitations
 .. image:: https://coveralls.io/repos/ploneintranet/ploneintranet.invitations/badge.png?branch=master
   :target: https://coveralls.io/r/ploneintranet/ploneintranet.invitations?branch=master
 
+Build status
+------------
+
+Unit tests
+~~~~~~~~~~
+
+.. image::
+http://jenkins.ploneintranet.net/buildStatus/icon?job=Plone%20Intranet%20Notifications
+    :target: http://jenkins.ploneintranet.net/job/Plone%20Intranet%20Notifications/
+
+Robot tests for Plone Intranet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image::
+http://jenkins.ploneintranet.net/buildStatus/icon?job=Plone%20Intranet%20Suite%20Master
+    :target: http://jenkins.ploneintranet.net/job/Plone%20Intranet%20Suite%20Master/badge/
+
+
 This package provides the following:
 
 Invite users via email
